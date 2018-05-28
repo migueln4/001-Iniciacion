@@ -81,5 +81,20 @@ public class Operadores {
         System.out.println(n3++);
         System.out.println(++n3);
 
+        int n4 = 4; //en binario -> 100
+        System.out.println("N4 A PARTIR DE AHORA");
+        n4<<=1;//se añaden ceros a la derecha
+        System.out.println(n4);
+        n4>>=2;//se añaden ceros a la izquierda y se quitan tantos a la derecha como se han añadido
+        System.out.println(n4);
+        n4>>>=1;
+        System.out.println(n4);
+        n4&=1;
+        System.out.println(n4);
+        n4|=1;
+        System.out.println(n4);
+        n4^=1;
+        System.out.println(n4);
+
     }
 }
