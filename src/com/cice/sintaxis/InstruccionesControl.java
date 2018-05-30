@@ -44,5 +44,29 @@ public class InstruccionesControl {
             System.out.println("No se ha cumplido la función.");
         }
 
+        //SWITCH
+
+        String palabra = "Ojete";
+
+        switch(palabra) {
+            case "Patata":
+                System.out.println("Has dicho \"Patata\"");
+                break;
+            case "Ojete":
+                System.out.println("Has dicho \"Ojete\"");
+                break;
+            case "Melocotón":
+                System.out.println("Has dicho \"Melocotón\"");
+                break;
+            case "Plastidécor":
+                System.out.println("Has dicho \"Plastidécor\"");
+                break;
+            case "Pelete":
+                System.out.println("Has dicho \"Pelete\"");
+                break;
+            default:
+                System.out.println("Mira, yo ya no sé.");
+        }
+
     }
 }
