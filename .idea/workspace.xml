@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2822505c-350b-4b0e-85a6-4db4e8e44dff" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cice/sintaxis/ejercicio4/Main.java" afterPath="$PROJECT_DIR$/src/com/cice/sintaxis/ejercicio4/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -485,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527708427413</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Completada la información del cuaderno.">
+      <created>1528133290801</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1528133290801</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
