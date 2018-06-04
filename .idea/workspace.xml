@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2822505c-350b-4b0e-85a6-4db4e8e44dff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cice/sintaxis/ejercicio5/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cice/sintaxis/ejercicio6/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cice/sintaxis/InstruccionesIteracion.java" afterPath="$PROJECT_DIR$/src/com/cice/sintaxis/InstruccionesIteracion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cice/sintaxis/ejercicio6/Main.java" afterPath="$PROJECT_DIR$/src/com/cice/sintaxis/ejercicio6/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/cice/sintaxis/ejercicio6/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+              <caret line="12" column="61" lean-forward="false" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -110,8 +108,8 @@
         <option value="$PROJECT_DIR$/src/com/cice/sintaxis/ejercicio3/Main.java" />
         <option value="$PROJECT_DIR$/src/com/cice/sintaxis/ejercicio4/Main.java" />
         <option value="$PROJECT_DIR$/src/com/cice/sintaxis/ejercicio5/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/cice/sintaxis/ejercicio6/Main.java" />
         <option value="$PROJECT_DIR$/src/com/cice/sintaxis/InstruccionesIteracion.java" />
+        <option value="$PROJECT_DIR$/src/com/cice/sintaxis/ejercicio6/Main.java" />
       </list>
     </option>
   </component>
@@ -274,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InstruccionesIteracion">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="InstruccionesIteracion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -460,8 +458,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.InstruccionesIteracion" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.InstruccionesIteracion" />
         <item index="2" class="java.lang.String" itemvalue="Application.Main (3)" />
         <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
         <item index="4" class="java.lang.String" itemvalue="Application.Main" />
@@ -563,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528136708101</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Hechos los ejercicios 5 y 6 del tema 1">
+      <created>1528141200489</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1528141200489</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -587,7 +592,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2652068" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2652068" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32927817" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295302" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32927817" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -615,7 +620,8 @@
     <MESSAGE value="Completada la información del cuaderno." />
     <MESSAGE value="Hechos hasta los ejercicios: 4" />
     <MESSAGE value="Hechos hasta el ejercicio: 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hechos hasta el ejercicio: 4" />
+    <MESSAGE value="Hechos los ejercicios 5 y 6 del tema 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hechos los ejercicios 5 y 6 del tema 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -810,7 +816,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/cice/sintaxis/ejercicio6/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <caret line="12" column="61" lean-forward="false" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
           <folding />
         </state>
       </provider>
