@@ -17,5 +17,26 @@ public class Main {
         }
         System.out.println("Se han ejecutado "+i+" iteraciones.");
 
+        otraForma(arrayEnteros);
+
+        conForEach(arrayEnteros);
+
+    }
+
+    public static void otraForma (int[] arrayEnteros) {
+        int j = 0;
+        for(; j<arrayEnteros.length && arrayEnteros[j] >= 0; j++);
+        System.out.println("Se han ejecutado "+j+" iteraciones.");
+    }
+
+    public static void conForEach (int[] arrayEnteros) {
+        int contador=0;
+        for(int a:arrayEnteros) {
+            contador++;
+            if (a<0) {
+                break;
+            }
+        }
+        System.out.println(contador-1);
     }
 }
